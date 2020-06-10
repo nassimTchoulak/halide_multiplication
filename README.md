@@ -25,7 +25,7 @@ highlights performance between c &amp; halide in matrix multiplication
 
 be sure to grant app.sh x right ( chmod )
 ### run ./app.sh
-- it type your commande & follow description
+- then type your commande & follow description
 - build : builds .c & .cpp into executables
 - execute [dimention] : runs a matrix mutiplication
 ...
