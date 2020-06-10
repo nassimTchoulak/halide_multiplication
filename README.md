@@ -30,3 +30,6 @@ be sure to grant app.sh x right ( chmod )
 - execute [dimention] : runs a matrix mutiplication
 ...
 
+### my test :
+for dim = 800 , i.e matrix size is 800*800 ; halide: 1075 miliseconds , c: 3731 ms ; 3x faster
+
